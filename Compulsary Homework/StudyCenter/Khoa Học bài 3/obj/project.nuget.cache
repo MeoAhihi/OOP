@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3wbRYwkxgxmYu/IPewpEpzBlNvTKXBsxE3blYHd7nScNOvRuiCjSKR5AvGjUT1YIkz27cF5RPLRKC0Wvf9Rdw==",
+  "success": true,
+  "projectFilePath": "D:\\VTC#\\Object Oriented Programing\\Compulsary Homework\\StudyCenter\\Khoa Học bài 3\\Khoa Học bài 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\Khoa Học bài 3.exe
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\Khoa Học bài 3.deps.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\Khoa Học bài 3.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\Khoa Học bài 3.runtimeconfig.dev.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\Khoa Học bài 3.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\ref\Khoa Học bài 3.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\bin\Debug\net5.0\Khoa Học bài 3.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\ref\Khoa Học bài 3.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\StudyCenter\Khoa Học bài 3\obj\Debug\net5.0\Khoa Học bài 3.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUhz67YXc88wBFWSEb/NrYR0ZQIv/M3kVmnuN4M6EBjy37FtxIhsNU9FdDOQwl2ijyumhj7JXafZHNWM8rgmDQ==",
+  "success": true,
+  "projectFilePath": "D:\\VTC#\\Object Oriented Programing\\Compulsary Homework\\StudyCenter\\TanLuc\\TanLuc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

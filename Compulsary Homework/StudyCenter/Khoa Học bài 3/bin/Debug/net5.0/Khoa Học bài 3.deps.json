@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Khoa Học bài 3/1.0.0": {
+        "runtime": {
+          "Khoa Học bài 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Khoa Học bài 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
