@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var circle = new Circle(new Coordinator("A", 5, 5), 10.5f);
+System.Console.WriteLine(circle);
