@@ -1,4 +1,8 @@
-class Coordinator {
+using System;
+
+namespace covert
+{
+    class Coordinator {
     private string name;
     private int x, y;
     public Coordinator() {
@@ -34,4 +38,5 @@ class Coordinator {
     public override string ToString() {
         return $"{this.name}( {this.x}, {this.y})";
     }
+}
 }
