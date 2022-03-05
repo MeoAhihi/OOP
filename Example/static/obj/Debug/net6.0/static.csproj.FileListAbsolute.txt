@@ -1,0 +1,15 @@
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\static\bin\Debug\net6.0\static.exe
+D:\VTC#\Object Oriented Programing\static\bin\Debug\net6.0\static.deps.json
+D:\VTC#\Object Oriented Programing\static\bin\Debug\net6.0\static.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\static\bin\Debug\net6.0\static.dll
+D:\VTC#\Object Oriented Programing\static\bin\Debug\net6.0\ref\static.dll
+D:\VTC#\Object Oriented Programing\static\bin\Debug\net6.0\static.pdb
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.dll
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\ref\static.dll
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.pdb
+D:\VTC#\Object Oriented Programing\static\obj\Debug\net6.0\static.genruntimeconfig.cache

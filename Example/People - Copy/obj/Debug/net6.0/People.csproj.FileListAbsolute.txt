@@ -1,0 +1,30 @@
+D:\VTC#\Object Oriented Programing\People\bin\Debug\net6.0\People.exe
+D:\VTC#\Object Oriented Programing\People\bin\Debug\net6.0\People.deps.json
+D:\VTC#\Object Oriented Programing\People\bin\Debug\net6.0\People.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\People\bin\Debug\net6.0\People.dll
+D:\VTC#\Object Oriented Programing\People\bin\Debug\net6.0\ref\People.dll
+D:\VTC#\Object Oriented Programing\People\bin\Debug\net6.0\People.pdb
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.dll
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\ref\People.dll
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.pdb
+D:\VTC#\Object Oriented Programing\People\obj\Debug\net6.0\People.genruntimeconfig.cache
+D:\VTC#\Object Oriented Programing\People - Copy\bin\Debug\net6.0\People.exe
+D:\VTC#\Object Oriented Programing\People - Copy\bin\Debug\net6.0\People.deps.json
+D:\VTC#\Object Oriented Programing\People - Copy\bin\Debug\net6.0\People.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\People - Copy\bin\Debug\net6.0\People.dll
+D:\VTC#\Object Oriented Programing\People - Copy\bin\Debug\net6.0\ref\People.dll
+D:\VTC#\Object Oriented Programing\People - Copy\bin\Debug\net6.0\People.pdb
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.dll
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\ref\People.dll
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.pdb
+D:\VTC#\Object Oriented Programing\People - Copy\obj\Debug\net6.0\People.genruntimeconfig.cache

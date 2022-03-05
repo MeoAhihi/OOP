@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJKUqmDtGH2W+qky7Gp/WgqQhzZmOSDk3dKdZL2VGsArlRmAkxTRGINpR4YLvM9SbIXR1MMWw6YTXEIZY0diGg==",
+  "success": true,
+  "projectFilePath": "D:\\VTC#\\Object Oriented Programing\\ModifierPractise\\ModifierPractise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
