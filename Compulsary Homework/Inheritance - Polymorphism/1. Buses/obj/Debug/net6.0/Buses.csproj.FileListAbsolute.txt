@@ -1,0 +1,15 @@
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\bin\Debug\net6.0\Buses.exe
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\bin\Debug\net6.0\Buses.deps.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\bin\Debug\net6.0\Buses.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\bin\Debug\net6.0\Buses.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\bin\Debug\net6.0\ref\Buses.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\bin\Debug\net6.0\Buses.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\ref\Buses.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\1. Buses\obj\Debug\net6.0\Buses.genruntimeconfig.cache

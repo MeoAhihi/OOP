@@ -1,0 +1,15 @@
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\bin\Debug\net6.0\2. Library.exe
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\bin\Debug\net6.0\2. Library.deps.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\bin\Debug\net6.0\2. Library.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\bin\Debug\net6.0\2. Library.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\bin\Debug\net6.0\ref\2. Library.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\bin\Debug\net6.0\2. Library.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\ref\2. Library.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\2. Library\obj\Debug\net6.0\2. Library.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\Interface.exe
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\Interface.deps.json
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\Interface.dll
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\ref\Interface.dll
+D:\VTC#\Object Oriented Programing\Example\Interface\bin\Debug\net5.0\Interface.pdb
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.dll
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\ref\Interface.dll
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.pdb
+D:\VTC#\Object Oriented Programing\Example\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
