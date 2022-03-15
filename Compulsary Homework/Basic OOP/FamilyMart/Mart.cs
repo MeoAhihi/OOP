@@ -37,7 +37,6 @@ class Product
     }
     public void setMFG(DateOnly newMFG)
     {
-        DateOnly today = DateOnly.FromDateTime(DateTime.Today);
         if (newMFG < today) MFG = newMFG;
         else MFG = today;
     }

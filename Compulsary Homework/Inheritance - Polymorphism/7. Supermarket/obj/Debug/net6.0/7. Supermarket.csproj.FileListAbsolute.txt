@@ -1,0 +1,15 @@
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.csproj.AssemblyReference.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.AssemblyInfoInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.AssemblyInfo.cs
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.csproj.CoreCompileInputs.cache
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\bin\Debug\net6.0\7. Supermarket.exe
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\bin\Debug\net6.0\7. Supermarket.deps.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\bin\Debug\net6.0\7. Supermarket.runtimeconfig.json
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\bin\Debug\net6.0\7. Supermarket.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\bin\Debug\net6.0\ref\7. Supermarket.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\bin\Debug\net6.0\7. Supermarket.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\ref\7. Supermarket.dll
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.pdb
+D:\VTC#\Object Oriented Programing\Compulsary Homework\Inheritance - Polymorphism\7. Supermarket\obj\Debug\net6.0\7. Supermarket.genruntimeconfig.cache
