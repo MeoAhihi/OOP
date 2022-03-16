@@ -21,7 +21,7 @@ class Food : Product
         EXP = eXP;
     }
 
-    internal override string Status() => (Stock > 0) && (_EXP < today) ? "Dificult to sell" : "---";
+    internal override string Status() => (Stock > 0) && (_EXP < today) ? "Difficult to sell" : "---";
 
     public override string ToString()
     {

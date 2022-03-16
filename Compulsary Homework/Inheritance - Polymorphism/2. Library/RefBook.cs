@@ -2,14 +2,15 @@ class RefBook : Book
 {
     private int _tax;
 
-    public RefBook(string code, DateOnly pruchaseDate, int price, int numOfBooks, string publisher, int tax) 
+    public RefBook(string code, DateOnly pruchaseDate, int price, int numOfBooks, string publisher, int tax)
         : base(code, pruchaseDate, price, numOfBooks, publisher)
     {
         Tax = tax;
     }
 
     public int Tax { get => _tax; set => _tax = value; }
-    public override int TotalPrice() {
+    public override int TotalPrice()
+    {
         return base.TotalPrice() + _tax;
     }
     public override string ToString()
